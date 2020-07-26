@@ -1,8 +1,3 @@
 {
-  "title": "How about another change?",
-  "name": "My name is!",
-  "password": "sfd4sfyxdg",
-  "skills": "HTML5",
-  "email": "asd@asd.de",
-  "status": "foo!"
+  "foo": true
 }
